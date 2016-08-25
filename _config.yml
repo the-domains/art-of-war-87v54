@@ -1,4 +1,3 @@
-layout_spectrum: 0.9589890302158892
 typography_spectrum: 0.6931321842130274
 color:
   brandStrength: 0.4066199674271047
@@ -6,9 +5,11 @@ color:
   saturation: 0.04225476738065481
   rhythmicContrast: 0.9284484491217881
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
+    - '#00585F'
+    - '#009393'
+    - '#FFFCC4'
+    - '#F0EDBB'
+    - '#FF3800'
+layout_spectrum: 0.9589890302158892
 name: art of war
+description: raW
